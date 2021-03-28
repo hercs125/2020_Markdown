@@ -1,5 +1,5 @@
 ---
-title: NSFW Daddy
+title: NSFW Daddys
 ---
 <video controls>
   <source src="" type="video/mp4">
