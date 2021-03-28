@@ -8,9 +8,6 @@ title: NSFW Daddy
 ![](https://i.imgur.com/ijxejIK.png)
 
 <!-- <video src="https://video.twimg.com/tweet_video/ExcN_6zWgAM8dzw.mp4" controls> -->
-<video controls>
-  <source src="https://video.twimg.com/tweet_video/ExcN_6zWgAM8dzw.mp4" type="video/mp4">
-</video>
 
 ![](https://i.imgur.com/Gfh9WwV.png)
 
