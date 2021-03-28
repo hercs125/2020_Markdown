@@ -1,6 +1,5 @@
 ---
 title: 關於我
-tags: 頁面
 ---
 ![個人肖像畫](https://i.imgur.com/vHCxbgD.png)
 
